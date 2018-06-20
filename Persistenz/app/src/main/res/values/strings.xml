@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Persistenz</string>
+    <string name="hslu_mobile_programming">HSLU Mobile Programming</string>
+    <string name="application_preferences">Application-Preferences</string>
+    <string name="mainactivity_invoke">MainActivity.onResume() wurde seit der Installation dieser App %1$d mal aufgerufen.</string>
+    <string name="preferred_tea">Ich trinke am liebsten %1$s, %2$s.</string>
+    <string name="edit_tea_prefs">Tee-Preferences editieren</string>
+    <string name="tea_default_prefs">Tee Default-Prefs setzen</string>
+    <string name="file_system">Dateisystem</string>
+    <string name="external_storage">Externen Speicher benutzen</string>
+    <string name="some_text">Irgendein Text:</string>
+    <string name="save">Speichern</string>
+    <string name="load">Laden</string>
+
+    <string name="prefs_title">Tee Präferenzen</string>
+    <string name="prefs_teaWithSugar_key">teaWithSugar</string>
+    <string name="prefs_teaWithSugar_title">Gesüsster Tee?</string>
+    <string name="prefs_teaWithSugar_summary">Soll der Tee gesüsst werden?</string>
+    <string name="prefs_teaSweetener_key">teaSweetener</string>
+    <string name="prefs_teaSweetener_title">Süssstoff</string>
+    <string name="prefs_teaSweetener_summary">Womit soll der Tee gesüsst werden?</string>
+    <string name="prefs_teaSweetener_sweetened">mit %1$s gesüsst</string>
+    <string name="prefs_teaSweetener_unsweetened">ungesüsst</string>
+    <string name="prefs_teaSweetener_default">artificial</string>
+    <string name="prefs_teaPreferred_key">teaPreferred</string>
+    <string name="prefs_teaPreferred_title">Bevorzugte Marke / Sorte</string>
+    <string name="prefs_teaPreferred_summary">z.B. &quot;Lipton / Pfefferminztee&quot;</string>
+    <string name="prefs_teaPreferred_default">Lipton / Pfefferminztee</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="it_courses">
+        <item>[Kein Kurs ausgewählt]</item>
+        <item>Access: Aufbau</item>
+        <item>Daten aus- und aufwerten mit Access und Excel</item>
+        <item>SQL Server: Administration</item>
+        <item>JavaScript: Aufbau (DHTML, DOM und AJAX)</item>
+        <item>PHP-Applikationen mit HTML 5, jQuery und Ajax</item>
+        <item>Sicherheit im Web: Einstieg</item>
+        <item>Java: Einführung</item>
+        <item>Visual Basic .NET: Einführung</item>
+    </string-array>
+    <string-array name="notifications_dialog">
+        <item>-</item>
+        <item>Toast</item>
+        <item>Dialog ohne Daten</item>
+        <item>Dialog mit Daten</item>
+        <item>Dialog mit eigenem Layout</item>
+        <item>Notification</item>
+    </string-array>
+</resources>

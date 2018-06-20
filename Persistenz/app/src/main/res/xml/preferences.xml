@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="teaPrefs"
+        android:title="@string/prefs_title">
+
+        <CheckBoxPreference
+            android:key="@string/prefs_teaWithSugar_key"
+            android:persistent="true"
+            android:title="@string/prefs_teaWithSugar_title"
+            android:summary="@string/prefs_teaWithSugar_summary" />
+
+        <ListPreference
+            android:key="@string/prefs_teaSweetener_key"
+            android:persistent="true"
+            android:title="@string/prefs_teaSweetener_title"
+            android:summary="@string/prefs_teaSweetener_summary"
+            android:dependency="@string/prefs_teaWithSugar_key"
+            android:entries="@array/teaSweetener"
+            android:entryValues="@array/teaSweetenerValues"
+            android:shouldDisableView="true" />
+
+        <EditTextPreference
+            android:key="@string/prefs_teaPreferred_key"
+            android:persistent="true"
+            android:title="@string/prefs_teaPreferred_title"
+            android:summary="@string/prefs_teaPreferred_summary" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">UI-Demo</string>
+    <string name="main_title">HSLU - Mobile Programming</string>
+    <string name="main_welcomeText">Willkommen zum zweiten Kursblock!</string>
+
+    <string name="main_menu_finish">Beenden</string>
+    <string name="main_menu_viewsdemo">Views Demo</string>
+
+    <string name="main_section1">1. Layouts</string>
+    <string name="main_layoutDemoText">Wähle eines der folgenden Layouts für eine Demo:</string>
+    <string name="radio_linearlayout">LinearLayout</string>
+    <string name="radio_relativelayout">RelativeLayout</string>
+    <string name="intent_extra_layout">layout</string>
+    <string name="intent_extra_course">course</string>
+    <string name="bundle_counter">counter</string>
+
+    <string name="main_section2">2. Screen-Orientation und Übersetzung</string>
+    <string name="main_landscapeText">
+        Diese Seite hat ein angepasstes Layout für den \"Landscape Mode\".
+        Probier es aus! Ausserdem kann sie auch Schweizerdeutsch. Stelle die Sprache im Emulator
+        auf \"Deutsch (Schweiz)\" um und starte die App erneut.
+    </string>
+
+    <string name="main_section3">3. Views und Events</string>
+    <string name="main_viewdemos">Seite mit Views-Demos anzeigen</string>
+
+    <string name="main_section4">4. Options Menu</string>
+    <string name="main_options">
+        Diese Seite hat ein Options Menu. Klicke auf den Menu-Button um das Menu anzuzeigen.
+    </string>
+
+    <string name="main_section5">5. Spinner und ListActivity</string>
+    <string name="main_course">Wähle einen Informatik-Kurs:</string>
+    <string name="main_course_listactivity">Kurs mit ListActivity wählen</string>
+
+    <string name="main_section6">6. Zustandszwischenspeicherung</string>
+    <string name="main_stateText">
+        Drücke den Knopf einige Male. Ein Toast mit dem internen Zählerstand wird angezeigt.
+        Drehe das Device von "Portrait" in "Landscape Mode".
+        Der Zähler wird zurückgesetzt! Das darf nicht sein…
+    </string>
+    <string name="main_countState">Internen Zustand hochzählen</string>
+
+    <string name="main_section7">7. Dialoge und Notifications</string>
+    <string name="main_choose_example">Wähle ein Beispiel</string>
+
+    <string name="layoutdemo_lin_vertical">Ich bin ein vertikales LinearLayout</string>
+    <string name="layoutdemo_lin_horizontal">Ich bin ein horizontales LinearLayout</string>
+
+    <string name="layoutdemo_rel_order">Bestellung</string>
+    <string name="layoutdemo_rel_product">Produkt-ID</string>
+    <string name="layoutdemo_rel_amount">Menge</string>
+    <string name="layoutdemo_rel_special">Sondertarif</string>
+    <string name="layoutdemo_rel_price">Preis berechnen</string>
+    <string name="layoutdemo_rel_hint">Preisangabe ohne Gewähr</string>
+
+    <string name="views_events_rating">Neue Bewertung: </string>
+    <string name="views_events_ratingValue">Noch nicht bewertet</string>
+</resources>

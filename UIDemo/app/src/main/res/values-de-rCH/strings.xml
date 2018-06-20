@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">UI-Demo</string>
+    <string name="main_title">HSLU - Mobile Programming</string>
+    <string name="main_welcomeText">Wellkomme zom zwöite Korsblock!</string>
+
+    <string name="main_menu_finish">Beände</string>
+    <string name="main_menu_viewsdemo">Views Demo</string>
+
+    <string name="main_section1">1. Layouts</string>
+    <string name="main_layoutDemoText">Wähl eis vo de folgende Layouts för en Demo:</string>
+    <string name="radio_linearlayout">LinearLayout</string>
+    <string name="radio_relativelayout">RelativeLayout</string>
+    <string name="intent_extra_layout">layout</string>
+    <string name="intent_extra_course">course</string>
+    <string name="bundle_counter">counter</string>
+
+    <string name="main_section2">2. Screen-Orientation und Öbersetzig</string>
+    <string name="main_landscapeText">
+        Die Siite hed es aapassts Layout för de \"Landscape Mode\".
+        Probiers uus! Osserdem cha sie au Schwiizerdüutsch. Stell d Sproch im Emulator
+        uf \"Deutsch (Schweiz)\" om ond start d App erneut.
+    </string>
+
+    <string name="main_section3">3. Views ond Events</string>
+    <string name="main_viewdemos">Siite met Views-Demos aazeige</string>
+
+    <string name="main_section4">4. Options Menu</string>
+    <string name="main_options">
+        Die Siite hed es Options Menu. Klick uf de Menu-Button om das Menu aazzeige.
+    </string>
+
+    <string name="main_section5">5. Spinner ond ListActivity</string>
+    <string name="main_course">Wähl en Informatik-Kors:</string>
+    <string name="main_course_listactivity">Kors met ListActivity wähle</string>
+
+    <string name="main_section6">6. Zuestandszwöschenspiicherig</string>
+    <string name="main_stateText">
+        Dröck de Chnopf einigi Mol. En Toast met dem interne Zählerstand werd aazeigt.
+        Dreih das Device vo "Portrait" i "Landscape Mode".
+        De Zähler werd zroggsetzt! Das daf ned si…
+    </string>
+    <string name="main_countState">Interne Zuestand ufezelle</string>
+
+    <string name="layoutdemo_lin_vertical">Ech be es vertikals LinearLayout</string>
+    <string name="layoutdemo_lin_horizontal">Ech be es horizontals LinearLayout</string>
+
+    <string name="layoutdemo_rel_order">Bstellig</string>
+    <string name="layoutdemo_rel_product">Produkt-ID</string>
+    <string name="layoutdemo_rel_amount">Mengi</string>
+    <string name="layoutdemo_rel_special">Sondertarif</string>
+    <string name="layoutdemo_rel_price">Priis berechne</string>
+    <string name="layoutdemo_rel_hint">Priisaagab ohni Gewähr</string>
+
+    <string name="views_events_rating">Neui Bewertung: </string>
+    <string name="views_events_ratingValue">No ned bewertet</string>
+</resources>
